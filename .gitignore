@@ -1,0 +1,7 @@
+venv-m01/
+__pycache__/
+*.pyc
+.env
+*.xlsx
+*.csv
+*.dta

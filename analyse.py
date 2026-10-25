@@ -2,11 +2,6 @@
 import pandas as pd
 from ydata_profiling import ProfileReport
 
-# Lecture de données
-
-import pandas as pd
-from ydata_profiling import ProfileReport
-
 # 1. Charger les données
 df = pd.read_csv(r"D:\EME_2\donnees_m01\produits.csv")
 
